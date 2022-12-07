@@ -14,5 +14,11 @@ In total there are seven models trained in three different time intervals, total
 
 At prediction time, it is necessary to select a model that is trained on the available features. 
 
+In the results folder, you can find a csv file containing the predictions for all data points using our most predictive model: xgboost with all previous grade information.
+
+In the figures folder, you can find the figures and plots associated with the project. 
+
+More details are included in the report pdf. 
+
 CODING ENVIRONMENT:
 A yaml file has been provided so that the python environment used can be reproduced. Package versions are as specified in the yaml file.
